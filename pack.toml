@@ -1,0 +1,13 @@
+name = "Jatsmmp"
+author = "Gera + EthicalObligation"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "d19aad6b623bc6ea21545129e314b3fa56459ec39d9db95478e5e079b20009ad"
+
+[versions]
+forge = "14.23.0.2486"
+minecraft = "1.12.2"
