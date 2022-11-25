@@ -169,3 +169,18 @@ metafile = true
 file = "mods/1.12.2/waystones.pw.toml"
 hash = "0af91e64926856848449b73fcd31a7fe37c1756fdb905ccbb97cd603218275f9"
 metafile = true
+
+[[files]]
+file = "mods/darknesslib.pw.toml"
+hash = "69c3c017648cdadabf61d08d401a90da58a41487075e7937595547cb6adf3cbd"
+metafile = true
+
+[[files]]
+file = "mods/grue.pw.toml"
+hash = "62e07cc3a4e0360d395ac01973d63c3f5f143bd60f3e8deff949e4dbd1fa5022"
+metafile = true
+
+[[files]]
+file = "mods/the-beneath.pw.toml"
+hash = "136c5d4d13816b788a48c7317be9f368245cf32acdf2f728875dcd30fb534c74"
+metafile = true
