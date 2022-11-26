@@ -1,7 +1,0 @@
-name = "GalacticraftCore"
-filename = "download"
-
-[download]
-url = "https://www.micdoodle8.com/download?R2FsYWN0aWNyYWZ0Q29yZS0xLjEyLjItNC4wLjIuMjgwLmphcj9odHRwczovL21pY2Rvb2RsZTguY29tL25ldy1idWlsZHMvR0MtMS4xMi8yODAvR2FsYWN0aWNyYWZ0Q29yZS0xLjEyLjItNC4wLjIuMjgwLmphcj9HQy0xXzEyPzI4MA=="
-hash-format = "sha1"
-hash = "5beadf8dcdfc58ebe191d8ae0f5d781231eeaf53"
