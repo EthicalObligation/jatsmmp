@@ -191,6 +191,16 @@ hash = "40bf93dce8d6d4769c2743a4768bb296902cdaa2a7bf8836402715a31269f06b"
 metafile = true
 
 [[files]]
+file = "mods/galacticraft-planets.pw.toml"
+hash = "1d6fc5c5157fb575fae424ef5d3a36d512453af8db9d9e5c8c9239b7c5e8c1f8"
+metafile = true
+
+[[files]]
+file = "mods/galacticraftcore.pw.toml"
+hash = "4b71db1cfa599b14508d6aa1f29dc2fb6e04441556900f03463efb7d1279d19e"
+metafile = true
+
+[[files]]
 file = "mods/galaxy-space-addon-for-galacticraft.pw.toml"
 hash = "82833d881a0989540edfd031036dbeffd5faf229524b4cf31349904bdb402c1c"
 metafile = true
@@ -208,6 +218,11 @@ metafile = true
 [[files]]
 file = "mods/interstellar-exoplanets.pw.toml"
 hash = "9c099886b6f743c3674c395ea8e0f43360d445991659e90d38e0e5003e030d23"
+metafile = true
+
+[[files]]
+file = "mods/micdoodlecore.pw.toml"
+hash = "5960c6a0ee5e03a9af77fe16a8b87508c409611bc9275fb8b438e40d68da8383"
 metafile = true
 
 [[files]]

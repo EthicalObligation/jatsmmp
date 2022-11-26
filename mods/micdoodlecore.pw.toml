@@ -1,0 +1,7 @@
+name = "MicdoodleCore"
+filename = "download"
+
+[download]
+url = "https://www.micdoodle8.com/download?TWljZG9vZGxlQ29yZS0xLjEyLjItNC4wLjIuMjgwLmphcj9odHRwczovL21pY2Rvb2RsZTguY29tL25ldy1idWlsZHMvR0MtMS4xMi8yODAvTWljZG9vZGxlQ29yZS0xLjEyLjItNC4wLjIuMjgwLmphcj9HQy0xXzEyPzI4MA=="
+hash-format = "sha1"
+hash = "4e6ad2a78a11cfecb41bc008a865639cae54120e"

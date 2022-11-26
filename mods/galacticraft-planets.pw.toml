@@ -1,0 +1,7 @@
+name = "Galacticraft-Planets"
+filename = "download"
+
+[download]
+url = "https://www.micdoodle8.com/download?R2FsYWN0aWNyYWZ0LVBsYW5ldHMtMS4xMi4yLTQuMC4yLjI4MC5qYXI/aHR0cHM6Ly9taWNkb29kbGU4LmNvbS9uZXctYnVpbGRzL0dDLTEuMTIvMjgwL0dhbGFjdGljcmFmdC1QbGFuZXRzLTEuMTIuMi00LjAuMi4yODAuamFyP0dDLTFfMTI/Mjgw"
+hash-format = "sha1"
+hash = "7b9e5fc648e63bf9b489a8cd0475dfbe0817f073"
