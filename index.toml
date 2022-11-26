@@ -186,6 +186,11 @@ hash = "6abc1a7317012b5ed3639d9c26fa54b48a355deb65ebb5a10a212372dbfadbff"
 metafile = true
 
 [[files]]
+file = "mods/randompatches-forge.pw.toml"
+hash = "93d16979ce8714c02e8e13cfb36d7f604e75ca334ec3349bf6d4e8e42f1c5563"
+metafile = true
+
+[[files]]
 file = "mods/the-beneath.pw.toml"
 hash = "136c5d4d13816b788a48c7317be9f368245cf32acdf2f728875dcd30fb534c74"
 metafile = true
