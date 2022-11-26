@@ -1,0 +1,13 @@
+name = "Interstellar: Exoplanets"
+filename = "Interstellar-Exoplanets-0.1.4.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "8ece14e2d5d4604e4bdf2edfb4440ad469a7ddf2"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4066266
+project-id = 358968

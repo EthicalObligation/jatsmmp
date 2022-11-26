@@ -171,8 +171,28 @@ hash = "0af91e64926856848449b73fcd31a7fe37c1756fdb905ccbb97cd603218275f9"
 metafile = true
 
 [[files]]
+file = "mods/asmodeuscore.pw.toml"
+hash = "2d42af07ea3232b9b8520b37dbd85c185dac62ec15c4f3392454d2334e091f6c"
+metafile = true
+
+[[files]]
 file = "mods/darknesslib.pw.toml"
 hash = "69c3c017648cdadabf61d08d401a90da58a41487075e7937595547cb6adf3cbd"
+metafile = true
+
+[[files]]
+file = "mods/extraplanets.pw.toml"
+hash = "30153a1557ef84a07f5ee9181c9cc0175259ad22069cc3e8a489190e06bbd817"
+metafile = true
+
+[[files]]
+file = "mods/galacticraft-legacy.pw.toml"
+hash = "40bf93dce8d6d4769c2743a4768bb296902cdaa2a7bf8836402715a31269f06b"
+metafile = true
+
+[[files]]
+file = "mods/galaxy-space-addon-for-galacticraft.pw.toml"
+hash = "82833d881a0989540edfd031036dbeffd5faf229524b4cf31349904bdb402c1c"
 metafile = true
 
 [[files]]
@@ -183,6 +203,41 @@ metafile = true
 [[files]]
 file = "mods/hbms-nuclear-tech-mod-reloaded.pw.toml"
 hash = "6abc1a7317012b5ed3639d9c26fa54b48a355deb65ebb5a10a212372dbfadbff"
+metafile = true
+
+[[files]]
+file = "mods/interstellar-exoplanets.pw.toml"
+hash = "9c099886b6f743c3674c395ea8e0f43360d445991659e90d38e0e5003e030d23"
+metafile = true
+
+[[files]]
+file = "mods/mixin-booter.pw.toml"
+hash = "ba303144d3dd5d0bb6c44c7241b5e116d7e695bc04921914e546a5d08353e5db"
+metafile = true
+
+[[files]]
+file = "mods/mjrlegendslib.pw.toml"
+hash = "f0254cdd6d5f1c170dfdd1fb91c92f38962f3a5b37c241aea562e57645c8677b"
+metafile = true
+
+[[files]]
+file = "mods/more-planet-extras.pw.toml"
+hash = "f242f801692360db69c62b9c836d14cd3f893ed85fcd069459540bfef24fc3f7"
+metafile = true
+
+[[files]]
+file = "mods/more-planets-gc-addon.pw.toml"
+hash = "0a41eed84f3ec36cf5f3ab85878c40bbf6ecc425f0ec2d2e860fff9ed45ce856"
+metafile = true
+
+[[files]]
+file = "mods/planet-progression.pw.toml"
+hash = "89efd2f45b1005a2db7715f0bf7377b1faf20f77270b54afdda8fb2666070eaa"
+metafile = true
+
+[[files]]
+file = "mods/stevekungs-lib.pw.toml"
+hash = "42e29342b3c0e21b47797583dcdee09e88a63e8b76829b913200ffd149c48c5b"
 metafile = true
 
 [[files]]
