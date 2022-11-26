@@ -181,6 +181,11 @@ hash = "62e07cc3a4e0360d395ac01973d63c3f5f143bd60f3e8deff949e4dbd1fa5022"
 metafile = true
 
 [[files]]
+file = "mods/hbms-nuclear-tech-mod-reloaded.pw.toml"
+hash = "6abc1a7317012b5ed3639d9c26fa54b48a355deb65ebb5a10a212372dbfadbff"
+metafile = true
+
+[[files]]
 file = "mods/the-beneath.pw.toml"
 hash = "136c5d4d13816b788a48c7317be9f368245cf32acdf2f728875dcd30fb534c74"
 metafile = true
